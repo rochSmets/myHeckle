@@ -1,0 +1,16 @@
+
+----3-components-of-the-magnetic-field-(cartesian)------------------------------
+    0.0           0.0           1.0
+----plasma-densities-for-2-species-(electron-density-being-the-sum)-------------
+                  1.0           0.2
+----X-component-of-the-bulk-velocity-(electrons-are-not-eligible)---------------
+                  0.0           0.4
+----Y-component-of-the-bulk-velocity-(electrons-are-not-eligible)---------------
+                  0.0           0.4
+----Z-component-of-the-bulk-velocity-(electrons-are-not-eligible)---------------
+                  0.0           0.0
+----parallel-temperature-for-all-species----------------------------------------
+    0.2           0.8           0.1
+----perpendicular-temperature-for-all-species-----------------------------------
+    0.2           0.8           0.1
+--------------------------------------------------------------------------------
