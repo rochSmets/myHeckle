@@ -3,7 +3,9 @@
     0.2
 ----half-thickness-of-the-sheet-------------------------------------------------
     1.0
-----electron-temperature-over-ion-temperature-----------------------------------
+----electron-temperature-over-proton-temperature--------------------------------
+    1.0
+----electron-temperature-over-alpha-temperature---------------------------------
     1.0
 ----magnetic-perturbation-as-initial-seed-for-the-instability-------------------
     0.01
